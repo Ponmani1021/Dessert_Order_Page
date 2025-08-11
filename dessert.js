@@ -55,6 +55,7 @@ addToCartBtn.forEach((btn, index) => {
       background-color: #eff0f0;
       border-radius: 5px;
       position: relative;
+      font-family: 'Amethysta';
     `;
 
     itemDiv.innerHTML = `
